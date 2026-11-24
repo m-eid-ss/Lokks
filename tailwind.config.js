@@ -1,0 +1,1 @@
+/** @type {import('tailwindcss').Config} */ export default {content:['./index.html','./src/**/*.{ts,tsx}'],theme:{extend:{fontFamily:{display:['"Playfair Display"','serif'],arabic:['"Noto Naskh Arabic"','serif']},colors:{wine:'#6e0f2c',ink:'#240b14',rose:'#f4c5d4'}}},plugins:[]};
